@@ -101,7 +101,7 @@ Start Date: 7/12/20
             <h2 class="center green-text">
               <i class="material-icons">code</i>
             </h2>
-            <h5 class="center">Programming Experience</h5>
+            <h5 class="center">Programming Origins</h5>
 
             <p class="light">
               My first experience with programming was making simple
@@ -122,7 +122,7 @@ Start Date: 7/12/20
             <h5 class="center">Continued Learning</h5>
 
             <p class="light">
-              fill please
+              I'm currently learning as much as I can, as quickly as I can. I'm building applications using HTML, CSS, JaveScript, PHP, and MySQL and how to deploy them using cPanel and Git. Check out my github and the projects section of this website to see my progress. This site is an example of that progress.
             </p>
           </div>
         </div>
