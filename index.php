@@ -223,7 +223,7 @@ Start Date: 7/12/20
 
               <div class="row">
                 <div class="input-field col s12">
-                  <input id="email" type="email" class="validate" name="mail" />
+                  <input id="email" type="text" class="validate" name="mail" />
                   <label for="email">Email</label>
                 </div>
               </div>
