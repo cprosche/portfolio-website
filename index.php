@@ -209,7 +209,7 @@ Start Date: 7/12/20
           <!--start contact form-->
           <div class="row" id="contact">
             <!--start form tag-->
-            <form class="col s12">
+            <form class="col s12" method="post">
               <div class="row">
                 <div class="input-field col s6">
                   <input id="first_name" type="text" class="validate" name="first-name" />
