@@ -272,8 +272,9 @@ Start Date: 7/12/20
     </div>
     <div class="footer-copyright">
       <div class="container">
-        Copyright 2020 Cade Rosche | This page was built using HTML, CSS, JS,
-        PHP, and Materialize.
+        <!--span with year id automatically inserts current year-->
+        Copyright <span id="year"></span> Cade Rosche | This page was built using HTML, CSS, JS,
+        PHP, and Materialize. </nobr>
       </div>
     </div>
   </footer>
@@ -283,6 +284,12 @@ Start Date: 7/12/20
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
+
+  <script>
+    //inserts the year into any tag with "year" id
+    var d = new Date();
+    document.getElementById("year").innerHTML = d.getFullYear();
+  </script>
   <!--End scripts-->
   <!--PHP to include-->
   <?php
