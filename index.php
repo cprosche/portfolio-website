@@ -168,7 +168,8 @@ Date: 7/12/20
               <div class="card">
                 <div class="card-image">
                   <!--image is also a link-->
-                  <a href="/projects/tictactoe/index.html"
+                  <a
+                    href="/repos/portfolio-website/projects/tictactoe/index.html"
                     ><img src="tictactoe.PNG"
                   /></a>
                   <span class="card-title black-text">TicTacToe</span>
