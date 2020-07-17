@@ -209,7 +209,7 @@ Start Date: 7/12/20
           <!--start contact form-->
           <div class="row" id="contact">
             <!--start form tag-->
-            <form class="col s12" method="post">
+            <form class="col s12" method="post" action="include/contactform.php">
               <div class="row">
                 <div class="input-field col s6">
                   <input id="first_name" type="text" class="validate" name="first-name" />
@@ -241,7 +241,7 @@ Start Date: 7/12/20
               </div>
               <div class="row">
                 <div class="col s12">
-                  <button class="btn waves-effect waves-dark white black-text" type="submit" name="action">
+                  <button class="btn waves-effect waves-dark white black-text" type="submit" name="action" value="action">
                     Send Message
                     <i class="material-icons right">send</i>
                   </button>
@@ -292,9 +292,7 @@ Start Date: 7/12/20
   </script>
   <!--End scripts-->
   <!--PHP to include-->
-  <?php
-  include 'include/contactform.php';
-  ?>
+
 </body>
 
 </html>

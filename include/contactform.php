@@ -14,7 +14,7 @@ if (isset($_POST['submit'])) {
     $message = $_POST['message'];
 
     $mailTo = "bigbear@mammothultralight.com";
-    $headers = "From " . $mailFrom;
+    $headers = "From: " . $mailFrom;
     $txt = "You have recieved an email from " . $firstName . " " . $lastName . "\n\n" . $message;
 
     mail($mailTo, $subject, $txt, $headers);
