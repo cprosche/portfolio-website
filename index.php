@@ -1,7 +1,7 @@
 <!--
 Name: Cade Rosche
 Project: Portfolio Site
-Date: 7/12/20
+Start Date: 7/12/20
 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -17,9 +17,9 @@ Date: 7/12/20
   <!--end link CSS-->
   <!--start page title and SVG favicon-->
   <title>Cade Rosche</title>
-  <link rel="icon" type="image/svg+xml" href="favicon/code.svg" />
-  <link rel="alternate icon" href="favicon/code.ico" />
-  <link rel="mask-icon" href="favicon/code.svg" color="#ff8a01" />
+  <link rel="icon" type="image/svg+xml" href="img/favicon/code.svg" />
+  <link rel="alternate icon" href="img/favicon/code.ico" />
+  <link rel="mask-icon" href="img/favicon/code.svg" color="#ff8a01" />
   <!--end page title and SVG favicon-->
 </head>
 
@@ -70,7 +70,7 @@ Date: 7/12/20
       </div>
     </div>
     <div class="parallax">
-      <img src="background1.jpg" alt="Unsplashed background img 1" />
+      <img src="img/background1.jpg" alt="Unsplashed background img 1" />
     </div>
   </div>
   <!--end Hero section-->
@@ -141,7 +141,7 @@ Date: 7/12/20
       </div>
     </div>
     <div class="parallax">
-      <img src="background2.jpg" alt="Unsplashed background img 2" />
+      <img src="img/background2.jpg" alt="Unsplashed background img 2" />
     </div>
   </div>
   <!--end middle Paralax section-->
@@ -159,7 +159,7 @@ Date: 7/12/20
             <div class="card">
               <div class="card-image">
                 <!--image is also a link-->
-                <a href="projects/tictactoe/index.html"><img src="tictactoe.PNG" /></a>
+                <a href="projects/tictactoe/index.html"><img src="img/tictactoe.png" /></a>
                 <span class="card-title black-text">TicTacToe</span>
               </div>
               <div class="card-content">
@@ -189,7 +189,7 @@ Date: 7/12/20
       </div>
     </div>
     <div class="parallax">
-      <img src="background3.jpg" alt="Unsplashed background img 3" />
+      <img src="img/background3.jpg" alt="Unsplashed background img 3" />
     </div>
   </div>
   <!-- end paralax section 3-->
