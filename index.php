@@ -241,7 +241,7 @@ Start Date: 7/12/20
               </div>
               <div class="row">
                 <div class="col s12">
-                  <button class="btn waves-effect waves-dark white black-text" type="submit" name="action" value="action">
+                  <button class="btn waves-effect waves-dark white black-text" type="submit" name="submit" value="action">
                     Send Message
                     <i class="material-icons right">send</i>
                   </button>
