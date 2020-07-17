@@ -31,6 +31,7 @@ Date: 7/12/20
       <ul class="right hide-on-med-and-down">
         <li><a href="#top">Home</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="https://github.com/cprosche/portfolio-website/tree/master">GitHub</a></li>
         <li><a href="#">Resume</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -38,6 +39,7 @@ Date: 7/12/20
       <ul id="nav-mobile" class="sidenav">
         <li><a href="#top">Home</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="https://github.com/cprosche/portfolio-website/tree/master">GitHub</a></li>
         <li><a href="#">Resume</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -263,7 +265,7 @@ Date: 7/12/20
             <li>
               <a class="white-text" href="https://www.linkedin.com/in/cade-rosche-5263b1a0/">LinkedIn</a>
             </li>
-            <li><a class="white-text" href="#!">GitHub</a></li>
+            <li><a class="white-text" href="https://github.com/cprosche/portfolio-website/tree/master">GitHub</a></li>
           </ul>
         </div>
       </div>
