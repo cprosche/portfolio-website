@@ -206,33 +206,34 @@ Date: 7/12/20
           </p>
           <!--start contact form-->
           <div class="row" id="contact">
+            <!--start form tag-->
             <form class="col s12">
               <div class="row">
                 <div class="input-field col s6">
-                  <input id="first_name" type="text" class="validate" />
+                  <input id="first_name" type="text" class="validate" name="first-name" />
                   <label for="first_name" class="white-text">First Name</label>
                 </div>
                 <div class="input-field col s6">
-                  <input id="last_name" type="text" class="validate" />
+                  <input id="last_name" type="text" class="validate" name="last-name" />
                   <label for="last_name">Last Name</label>
                 </div>
               </div>
 
               <div class="row">
                 <div class="input-field col s12">
-                  <input id="email" type="email" class="validate" />
+                  <input id="email" type="email" class="validate" name="mail" />
                   <label for="email">Email</label>
                 </div>
               </div>
               <div class="row">
                 <div class="input-field col s12">
-                  <input id="subject" type="text" class="validate" />
+                  <input id="subject" type="text" class="validate" name="subject" />
                   <label for="subject">Subject</label>
                 </div>
               </div>
               <div class="row">
                 <div class="input-field col s12">
-                  <textarea id="message" type="text" class="materialize-textarea"></textarea>
+                  <textarea id="message" type="text" class="materialize-textarea" name="message"></textarea>
                   <label for="message">Message</label>
                 </div>
               </div>
@@ -245,6 +246,7 @@ Date: 7/12/20
                 </div>
               </div>
             </form>
+            <!--end form tag-->
           </div>
         </div>
         <!--end contact form-->
@@ -275,10 +277,15 @@ Date: 7/12/20
   </footer>
   <!--end footer section-->
 
-  <!--  Scripts-->
+  <!--start  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
+  <!--End scripts-->
+  <!--PHP to include-->
+  <?php
+  include 'include/contactform.php';
+  ?>
 </body>
 
 </html>
