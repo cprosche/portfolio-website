@@ -60,7 +60,7 @@ Start Date: 7/12/20
         </h1>
         <div class="row center">
           <h5 class="header col s12 light flow-text">
-            I am a full stack web developer based in Rockford, IL. I have
+            I am a full stack web developer based in Rockford, Illinois. I have
             experience with HTML, CSS, SASS, JavaScript, PHP, and MySQL.
           </h5>
         </div>
@@ -89,7 +89,7 @@ Start Date: 7/12/20
             <p class="light">
               At UIUC, I received a bachelor's degree in Chemical Engineering.
               I completed my degree in 2017. During my studies, I heavily
-              utilized Excel and it's functions. I creating many spreadsheets
+              utilized Excel and it's functions. I created many spreadsheets
               that were the entirety of the technical work behind our group
               projects.
             </p>
