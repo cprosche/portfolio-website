@@ -27,7 +27,7 @@ Start Date: 7/12/20
   <!--start Navbar -->
   <nav class="white" role="navigation" id="top">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">Cade Rosche</a>
+      <a id="logo-container" href="#" class="brand-logo hide-on-med-and-down">Cade Rosche</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="#top">Home</a></li>
         <li><a href="#projects">Projects</a></li>
@@ -59,7 +59,7 @@ Start Date: 7/12/20
           Hi, my name is Cade Rosche.
         </h1>
         <div class="row center">
-          <h5 class="header col s12 light">
+          <h5 class="header col s12 light flow-text">
             I am a full stack web developer based in Rockford, IL. I have
             experience with HTML, CSS, SASS, JavaScript, PHP, and MySQL.
           </h5>
