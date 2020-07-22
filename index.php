@@ -154,6 +154,45 @@ Start Date: 7/12/20
           <h3><i class="mdi-content-send brown-text"></i></h3>
           <h4>Projects</h4>
         </div>
+        <div class="row" id="restaurant-website">
+          <div class="col s12">
+            <div class="card">
+              <div class="card-image">
+                <!--image is also a link-->
+                <a href="https://restaurant.roschedigitalmarketing.com/"><img src="img/restaurant-website.jpg" /></a>
+                <span class="card-title black-text">Restaurant Website</span>
+              </div>
+              <div class="card-content">
+                <p>
+                  I built this website to showcase and improve my HTML and Sass abilities. Gen = Generic. I did not use a framework on this, it is pure HTML and compiled Sass.
+                </p>
+              </div>
+              <div class="card-action">
+                <a href="https://restaurant.roschedigitalmarketing.com/">try it out</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row" id="calculator">
+          <div class="col s12">
+            <div class="card">
+              <div class="card-image">
+                <!--image is also a link-->
+                <a href="projects/calculator-js/index.html"><img src="img/calculator-js.jpg" /></a>
+                <span class="card-title white-text">TicTacToe</span>
+              </div>
+              <div class="card-content">
+                <p>
+                  This example of a calculator is built out of HTML, CSS, and
+                  JavaScript.
+                </p>
+              </div>
+              <div class="card-action">
+                <a href="projects/calculator-js/index.html">try it out</a>
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="row" id="tictactoe">
           <div class="col s12">
             <div class="card">
@@ -256,6 +295,8 @@ Start Date: 7/12/20
         <div class="col l3 s12">
           <h5 class="white-text">Projects</h5>
           <ul>
+            <li><a class="white-text" href="#restaurant-website">Gen's Pizza</a></li>
+            <li><a class="white-text" href="#calculator">JS Calculator</a></li>
             <li><a class="white-text" href="#tictactoe">TicTacToe</a></li>
           </ul>
         </div>
@@ -273,7 +314,7 @@ Start Date: 7/12/20
     <div class="footer-copyright">
       <div class="container">
         <!--span with year id automatically inserts current year-->
-        Copyright <span id="year"></span> Cade Rosche | This page was built using HTML, CSS, JS,
+        Copyright &copy; <span id="year"></span> Cade Rosche | This page was built using HTML, CSS, JS,
         PHP, and Materialize. </nobr>
       </div>
     </div>
