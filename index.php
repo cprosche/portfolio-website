@@ -154,6 +154,7 @@ Start Date: 7/12/20
           <h3><i class="mdi-content-send brown-text"></i></h3>
           <h4>Projects</h4>
         </div>
+
         <div class="row" id="restaurant-website">
           <div class="col s12">
             <div class="card">
@@ -173,12 +174,13 @@ Start Date: 7/12/20
             </div>
           </div>
         </div>
+
         <div class="row" id="calculator">
           <div class="col s12">
             <div class="card">
               <div class="card-image">
                 <!--image is also a link-->
-                <a href="projects/calculator-js/index.html"><img src="img/calculator-js.jpg" /></a>
+                <a href="projects/calculator-js/index.html"><img src="img/calculator.jpg" /></a>
                 <span class="card-title white-text">TicTacToe</span>
               </div>
               <div class="card-content">
